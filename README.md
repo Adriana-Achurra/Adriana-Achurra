@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23188
-Fork on GitHub
-7837
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Adriana Achurra</h1>
 <h3 align="center">I'm a Software Engineer from Panama</h3>
